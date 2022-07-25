@@ -1,2 +1,2 @@
-# A repo for my wallapapers
+# A repository for my wallapapers
 
